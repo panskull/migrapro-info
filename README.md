@@ -32,6 +32,7 @@ Projekt w budowie (start: październik 2026).
 ## Aktualizacje
 
 - **2026-10-17** — start projektu, plan aplikacji.
+- **2026-10-17** — rozpoznanie API IdoSell, Shoper, PrestaShop i WooCommerce: co da się przenieść automatycznie; przekierowania 301 jako plik do importu w panelu IdoSell.
 
 ---
 Kod aplikacji jest prywatny. To repozytorium zawiera wyłącznie informacje o projekcie.
