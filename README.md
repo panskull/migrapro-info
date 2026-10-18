@@ -37,6 +37,7 @@ Projekt w budowie (start: październik 2026).
 - **2026-10-17** — działa migracja produktów Shoper → IdoSell: ustawienia w formie tabeli (parowanie pól, kreator nazwy, kolejność zdjęć, reguły, filtry), drzewo menu, parametry, migracja próbna i pełna z paskiem postępu i raportem CSV, częściowa aktualizacja istniejących produktów.
 - **2026-10-18** — nowy moduł „Logistyka produktów”: przegląd i filtrowanie ustawień wysyłki, zwrotów i wymiarów wszystkich produktów sklepu IdoSell, szablony i zmiany hurtowe (zmieniają tylko wybrane pola).
 - **2026-10-18** — Logistyka: wyszukiwanie i zmiana grupowa po kurierach darmowej dostawy, formach płatności i usłudze Smile; filtry po parametrach produktu, menu sklepu, wymiarach (od–do) i liście kodów; podgląd „było → będzie” przed zapisem w IdoSell; wybór kolumn i sortowanie.
+- **2026-10-18** — Logistyka: pakiety (Darmowy, Start, Biznes, Pro) i automaty — reguła „produkty z filtra mają ustawienia z szablonu” sprawdzana co noc, z raportem albo automatyczną poprawką; filtr osobno dla każdego menu sklepu; czytelniejsza tabela.
 
 ---
 Kod aplikacji jest prywatny. To repozytorium zawiera wyłącznie informacje o projekcie.
