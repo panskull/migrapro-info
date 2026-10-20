@@ -40,6 +40,7 @@ Projekt w budowie (start: październik 2026).
 - **2026-10-18** — Logistyka: pakiety (Darmowy, Start, Biznes, Pro) i automaty — reguła „produkty z filtra mają ustawienia z szablonu” sprawdzana co noc, z raportem albo automatyczną poprawką; filtr osobno dla każdego menu sklepu; czytelniejsza tabela.
 - **2026-10-20** — warianty jako osobne karty łączone w grupy IdoSell (każda karta zachowuje swoją nazwę, zdjęcia, opisy i cenę); nowe narzędzie „Grupowanie towarów”: propozycje grup dla całego sklepu IdoSell, podgląd, zapis w tle, raport i cofnięcie jednym przyciskiem; wykrywanie i naprawa złych grup (karty rozbite na kilka grup, obce karty w grupie), filtr po słowach; ustawienia wszystkich grup naraz (wyświetlanie, pola wspólne) z cofnięciem.
 - **2026-10-21** — naprawa stanów magazynowych przy migracji i uzupełnianie stanów ze starego sklepu; nazwy wartości w grupach (lista wyboru na karcie produktu); nowe narzędzie „Parametry z nazwy i opisu”: reguły (fraza w nazwie, opisie lub kategorii → parametr), podgląd, zapis w tle i cofnięcie.
+- **2026-10-21** — Logistyka: „sprzedawaj po” (detal i hurt), dostępność ze stanu albo ręcznie z wyborem magazynów (M0, M1, M2…), cofanie każdej zmiany grupowej (także stanów przy zmianie trybu dostępności).
 
 ---
 Kod aplikacji jest prywatny. To repozytorium zawiera wyłącznie informacje o projekcie.
