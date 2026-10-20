@@ -38,6 +38,7 @@ Projekt w budowie (start: październik 2026).
 - **2026-10-18** — nowy moduł „Logistyka produktów”: przegląd i filtrowanie ustawień wysyłki, zwrotów i wymiarów wszystkich produktów sklepu IdoSell, szablony i zmiany hurtowe (zmieniają tylko wybrane pola).
 - **2026-10-18** — Logistyka: wyszukiwanie i zmiana grupowa po kurierach darmowej dostawy, formach płatności i usłudze Smile; filtry po parametrach produktu, menu sklepu, wymiarach (od–do) i liście kodów; podgląd „było → będzie” przed zapisem w IdoSell; wybór kolumn i sortowanie.
 - **2026-10-18** — Logistyka: pakiety (Darmowy, Start, Biznes, Pro) i automaty — reguła „produkty z filtra mają ustawienia z szablonu” sprawdzana co noc, z raportem albo automatyczną poprawką; filtr osobno dla każdego menu sklepu; czytelniejsza tabela.
+- **2026-10-20** — warianty jako osobne karty łączone w grupy IdoSell (każda karta zachowuje swoją nazwę, zdjęcia, opisy i cenę); nowe narzędzie „Grupowanie towarów”: propozycje grup dla całego sklepu IdoSell, podgląd, zapis w tle, raport i cofnięcie jednym przyciskiem.
 
 ---
 Kod aplikacji jest prywatny. To repozytorium zawiera wyłącznie informacje o projekcie.
