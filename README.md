@@ -46,3 +46,4 @@ Projekt w budowie (start: październik 2026).
 
 ---
 Kod aplikacji jest prywatny. To repozytorium zawiera wyłącznie informacje o projekcie.
+- **2026-10-24** — Logistyka i Załączniki: filtr „produkty bez przypisania do menu” — osobno dla każdego menu IdoSell albo bez żadnego menu; działa też w nocnych automatach.
