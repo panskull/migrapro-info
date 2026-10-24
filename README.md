@@ -43,7 +43,7 @@ Projekt w budowie (start: październik 2026).
 - **2026-10-21** — Logistyka: „sprzedawaj po” (detal i hurt), dostępność ze stanu albo ręcznie z wyborem magazynów (M0, M1, M2…), cofanie każdej zmiany grupowej (także stanów przy zmianie trybu dostępności).
 - **2026-10-21** — nowe narzędzie „Załączniki hurtowo”: jeden albo kilka plików (instrukcja, deklaracja zgodności, karta produktu — rodzaje dokumentów pod GPSR) na setkach i tysiącach kart IdoSell naraz; wgranie pliku do 95 MB albo link, wybór kart filtrem, podgląd z szacowanym czasem, kolejka w tle z ponawianiem, raport CSV i cofnięcie; instrukcja obsługi w zakładce.
 - **2026-10-22** — nowe narzędzie „Opisy sklepów”: lista kart, które w wybranym sklepie i języku mają własną nazwę albo opis zamiast domyślnych (z porównaniem tekstów i oznaczeniem pustych opisów), lista ID do skopiowania albo pobrania (.txt, CSV) i instrukcja przywrócenia opisów domyślnych Edycją grupową IdoSell.
+- **2026-10-24** — Logistyka i Załączniki: filtr „produkty bez przypisania do menu” — osobno dla każdego menu IdoSell albo bez żadnego menu; działa też w nocnych automatach.
 
 ---
 Kod aplikacji jest prywatny. To repozytorium zawiera wyłącznie informacje o projekcie.
-- **2026-10-24** — Logistyka i Załączniki: filtr „produkty bez przypisania do menu” — osobno dla każdego menu IdoSell albo bez żadnego menu; działa też w nocnych automatach.
